@@ -1,0 +1,25 @@
+.para{
+
+    font-family: 'Verdana', 'DejaVu Sans', sans-serif;
+    background-color: #ffa9ff;
+}
+
+#id1{
+
+    color: #000ff0;
+    font-size: 36px;
+
+}
+
+.para.subclass1{
+
+    font-size:24px;
+}
+
+#id3 {
+
+    background-color: #90ee90;
+    font-size: 24px;
+    font-weight:bolder;
+
+}
