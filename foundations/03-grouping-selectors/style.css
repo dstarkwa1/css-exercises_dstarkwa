@@ -1,0 +1,21 @@
+.button-type-1,
+.button-type-2 {
+
+    font-size: 28px;
+    font-family: 'Helvetica', 'Times New Roman', sans-serif;
+
+}
+
+.button-type-1{
+
+    background-color: #000000;
+    color: #ffffff;
+    
+}
+
+.button-type-2{
+
+    color: #000000;
+    background-color: #ffff00;
+    
+}
